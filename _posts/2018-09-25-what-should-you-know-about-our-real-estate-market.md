@@ -19,11 +19,11 @@ youtube_code: 3NIc5okUL9Y
 
 {% include youtube.html %}
 
-The No.1 question I’ve been hearing lately is, “What is actually happening in the market right now?” Today, I’ll be sharing my answer.
+The No. 1 question I’ve been hearing lately is, “What is actually happening in the market right now?” Today I’ll be sharing my answer.
 
 **There are a few things that you need to know about our current market.** First, new listings are up 12.9% from last year. This number hasn’t been changing very much lately, but now we’ve seen a significant jump. Our inventory is also up by 19.8%.
 
-Next, the number of homes that are coming off the market and going under contract. **That number is down 6.1%, which is also a departure from the trends we’ve been seeing over the past few years.** The time that homes are spending on the market is also up 3.8% from last year.
+Next, **the number of homes that are coming off the market and going under contract is down 6.1%, which is also a departure from the trends we’ve been seeing over the past few years.** The time that homes are spending on the market is also up 3.8% from last year.
 
 {% include pullquote.html %}
 
