@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Do to Spice Up Your Offer?
-date:
+date: 2018-10-23 18:53:56
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -35,5 +35,3 @@ We’ve seen a ton of homes come on the market this year and more often than not
 {% include pullquote.html %}
 
 When you put all of this together, that is how you’re going to stand out amongst the crowd. Follow the tips above and you’ll be on the right path to success. If you have any questions for us or want to know more about what we can do to help you find success with buying a home, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
