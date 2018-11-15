@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Thanksgiving From the Ryan Ahearn Real Estate Team
-date:
+date: 2018-11-15 20:08:48
 tags:
   - Happy Thanksgiving
   - Ryan Ahearn Real Estate Team
