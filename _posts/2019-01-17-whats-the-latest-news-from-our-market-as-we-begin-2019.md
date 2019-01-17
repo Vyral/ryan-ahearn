@@ -32,6 +32,6 @@ Whenever this happens, inventory goes up, and sure enough, inventory rose 36.9% 
 
 Lastly, our level of inventory, or how long it would take for all the homes currently listed to sell if no new homes came on the market, is currently sitting at 2.2 months. To put that into perspective, a balanced market usually has six months’ worth of inventory. &nbsp;
 
-That last tidbit is especially good news for sellers, but overall we’re still in a very strong market that’s favorable to both sellers and buyers. If you’re a buyer, homes are staying on the market longer and there are more to choose from. &nbsp;
+That last tidbit is especially good news for sellers, but overall, we’re still in a very strong market that’s favorable to both sellers and buyers. If you’re a buyer, homes are staying on the market longer and there are more to choose from. &nbsp;
 
 If you have any more questions about our market or you’re thinking of buying or selling a home soon, feel free to call or email me. I’d love to speak to you.
