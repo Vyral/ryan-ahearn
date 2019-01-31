@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How and Why We Break the Rules of Real Estate
-date: 2019-01-31 08:28:00
+date: 2019-01-31 12:28:00
 tags:
   - Real Estate
 excerpt: >-
