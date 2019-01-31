@@ -3,7 +3,6 @@ layout: post
 title: How and Why We Break the Rules of Real Estate
 date: 2019-01-31 12:28:00
 tags:
-  - Real Estate
 excerpt: >-
   You’ve probably heard the saying that rules are made to be broken, and we at
   the Ryan Ahearn team certainly believe this is true when it comes to real
