@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How and Why We Break the Rules of Real Estate
-date: 2019-01-31 20:28:41
+date: 2019-01-31 08:28:00
 tags:
   - Real Estate
 excerpt: >-
@@ -39,5 +39,3 @@ When a buyer views a home alone, they might think to themselves, “I love this 
 The second rule pertains to buyers. While many agents out there might try to make it seem like the only available homes are those listed on the market, there’s no rule that says this has to be the case. **There are actually many off-market properties available**, and our team is always happy to put these homes on the map for our buyers. Many of these properties are truly hidden gems.
 
 If you have any other questions, would like more information, or are curious how our team flips the script on the typical approach to real estate, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
