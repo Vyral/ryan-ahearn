@@ -11,7 +11,7 @@ excerpt: >-
   clients’ success.
 enclosure:
 pullquote: >-
-  By subverting these rules, we at the Ryan Ahearn team are far better equipped
+  By subverting these rules, we at the Ryan Ahearn Team are far better equipped
   to assist you, our clients, than we would be if we fell in line with the
   status quo.
 enclosure_type: video/mp4
@@ -23,13 +23,13 @@ youtube_code: CNsbBxrgUiw
 
 {% include youtube.html %}
 
-Real estate is in many ways a “copycat” industry. What I mean by this is that while the barrier of entry is very low, actually succeeding as a real estate professional is a much steeper obstacle. So when **new agents are thrown into the fray, so to speak, they tend to look to those around them for guidance.** They try to imitate what every other agent out there is doing.
+Real estate is in many ways a “copycat” industry. What I mean by this is that while the barrier of entry is very low, actually succeeding as a real estate professional is a much steeper obstacle. So when **new agents are thrown into the fray, so to speak, they tend to look to those around them for guidance.** They then try to imitate what every other agent out there is doing.
 
-However, it’s important to realize that just because you’ve seen other real estate professionals operating in a certain way, it doesn’t mean that their tactics are the best possible strategy. To illustrate what I mean, I’d like to share (and debunk) two supposed “rules” of real estate for you today. By subverting these rules, we at the Ryan Ahearn team are far better equipped to assist you, our clients, than we would be if we fell in line with the status quo.
+However, it’s important to realize that just because you’ve seen other real estate professionals operating in a certain way, it doesn’t mean that their tactics are the best possible strategy. To illustrate what I mean, I’d like to share (and debunk) two supposed “rules” of real estate for you today. By subverting these rules, we at the Ryan Ahearn Team are far better equipped to assist you, our clients, than we would be if we fell in line with the status quo.
 
 The first rule pertains to sellers. If you’ve ever tried to sell your home, your listing agent probably scheduled showings at 30-minute intervals—giving each buyer a distinct time slot during which they can browse through your property. To tell you the truth, it doesn’t have to be this way. **There is no set rule that says buyers must attend separate showings.**
 
-Imagine, for a moment, how it might benefit you (as a seller) if your agent was to let all the buyers in at the same time. Wouldn’t it be better if buyers knew exactly how much competition they were up against? We at the Ryan Ahearn team certainly think so.
+Imagine, for a moment, how it might benefit you (as a seller) if your agent was to let all the buyers in at the same time. Wouldn’t it be better if buyers knew exactly how much competition they were up against? We certainly think so.
 
 {% include pullquote.html %}
 
