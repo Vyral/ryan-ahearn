@@ -19,17 +19,13 @@ youtube_code: OMp2rMgP8Tw
 
 {% include youtube.html %}
 
-&nbsp;
-
-&nbsp;
-
 Once again, I’m here to bring you the latest numbers from our market.
 
 Let’s get right to it: As you know, we’re always tracking brand-new homes that have hit the market. As it stands, **there’s been a 12.7% uptick in the number of new home listings.**
 
 The second data point we’re concerned with is the number of homes going into escrow. **That number has fallen by 3.7%.**
 
-In a similar fashion with what we’ve been seeing since last fall, **the number of homes coming on the market far exceeds those that are selling**; in other words, in other words, our market’s inventory continues to swell.
+In a similar fashion with what we’ve been seeing since last fall, **the number of homes coming on the market far exceeds those that are selling**; in other words, our market’s inventory continues to swell.
 
 Let’s now look at **the number of homes for sale across the county—this number is up 33.2%**. That may seem astronomically high, but understand that the market shift this increase bears out has already occurred; we experienced a dramatic increase in this area between last July and August, and it’s since leveled off.
 
@@ -39,7 +35,7 @@ The last thing we’ll explore is our months’ supply of inventory. It’s impo
 
 What does all of this mean for buyers and sellers?
 
-The truth is, it’s nothing that we haven’t seen in the past few months. Sellers will likely face longer days on market fewer showings, and fewer offers in the coming months. Opportunities still abound, though, with the aforementioned 2.3 months of inventory we have.
+The truth is, it’s nothing that we haven’t seen in the past few months. Sellers will likely face longer days on market, fewer showings, and fewer offers in the coming months. Opportunities still abound, though, with the aforementioned 2.3 months of inventory we have.
 
 Buyers will enjoy more options, more time, and less competition. Notably, mortgages rates are at a 12-month low, but this won’t go on forever. Take advantage of these incredibly low rates and talk to your lender.
 
