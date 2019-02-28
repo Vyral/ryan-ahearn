@@ -31,7 +31,7 @@ Let’s now look at **the number of homes for sale across the county—this numb
 
 How about days on market? Currently, **that number sits at an average of 40 days—a 17.6% increase. &nbsp;**
 
-The last thing we’ll explore is our months’ supply of inventory. It’s important to first note that a well-balanced market here in San Diego County is six months’ worth of supply. With that in mind, **we have 2.3 months’ worth of inventory at this time; that’s a 43.8% year-over-year increase.** &nbsp;&nbsp;
+The last thing we’ll explore is our month's supply of inventory. It’s important to first note that a well-balanced market here in San Diego County is six months’ worth of supply. With that in mind, **we have 2.3 months’ worth of inventory at this time; that’s a 43.8% year-over-year increase.** &nbsp;&nbsp;
 
 What does all of this mean for buyers and sellers?
 
