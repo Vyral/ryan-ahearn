@@ -24,7 +24,7 @@ youtube_code: uhz69__DqQA
 
 {% include youtube.html %}
 
-The March numbers are in for our local real estate market, so let’s look at the data point by point today.&nbsp;
+The March numbers for our local real estate market are in, so today, let’s go through the data point by point
 
 In comparison to this last year, the number of new listings on the market has slacked off a bit, decreasing by 6.1%. This is markedly different from the 10% to 20% increases we’d been seeing since August of 2018.&nbsp;
 
