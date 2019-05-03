@@ -24,7 +24,11 @@ As always, there are five leading indicators we look at when answering this type
 
 **In this case, we’ll see how the figures from April of this year compare to April 2018:&nbsp;**
 
-The number of new listings dropped 5.6%&nbsp;<br>The number of pending sales rose 6.6%<br>Inventory rose 7.5%—while this still qualifies as an increase, it’s a far cry from when it was increasing by as much as 40% in previous months&nbsp;<br>The average days on market rose 29.6% to 35 days<br>The month’s supply of inventory rose 15.8% to 2.2 months
+* The number of new listings dropped 5.6%&nbsp;
+* The number of pending sales rose 6.6%
+* Inventory rose 7.5%—while this still qualifies as an increase, it’s a far cry from when it was increasing by as much as 40% in previous months&nbsp;
+* The average days on market rose 29.6% to 35 days
+* The month’s supply of inventory rose 15.8% to 2.2 months
 
 What does this mean for buyers and sellers?&nbsp;
 
