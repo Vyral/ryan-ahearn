@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Numbers From Our San Diego Market
-date: 2019-05-02 16:07:33
+date: 2019-05-02 16:07:00
 tags:
 excerpt: >-
   According to the latest numbers, it’s a good market all around in San Diego as
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: C4aGYis84Us
+youtube_code: IXE0ES1ItRU
 ---
 
 {% include youtube.html %}
