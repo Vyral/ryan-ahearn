@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Buy and Sell at the Same Time?
-date: 2019-06-07 16:57:35
+date: 2019-06-07 04:57:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
