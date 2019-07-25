@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in This Crazy San Diego Market?
-date: 2019-07-25 19:05:33
+date: 2019-07-25 07:05:00
 tags:
   - Real Estate
   - Market Update
