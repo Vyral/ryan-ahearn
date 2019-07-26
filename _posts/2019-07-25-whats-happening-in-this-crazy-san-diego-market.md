@@ -32,7 +32,7 @@ The drop in interest rates we saw in February is another reason behind this chan
 
 {% include pullquote.html %}
 
-With all of these conditions in mind, sellers will be happy to know that now is a great time to make a move. **Our team just hosted a “Seven-Day Blitz” events for one of our listings that drew in 100 interested buyers on a single night.** The next day, 150 buyers showed up. We haven’t seen this level of demand in approximately two years. Sellers right now can expect to see a higher number of interested buyers checking out their listings and should anticipate multiple offers.
+With all of these conditions in mind, sellers will be happy to know that now is a great time to make a move. **Our team just hosted a “Seven-Day Blitz” event for one of our listings that drew in 100 interested buyers on a single night.** The next day, 150 buyers showed up. We haven’t seen this level of demand in approximately two years. Sellers right now can expect to see a higher number of interested buyers checking out their listings and should anticipate multiple offers.
 
 Buyers, meanwhile, have an incredible opportunity before them, as well. Interest rates are below 4% at the moment, which means it’s a great time to secure a loan. Market data suggests that prices are about to rise, though, so take advantage of today’s conditions while they last.
 
