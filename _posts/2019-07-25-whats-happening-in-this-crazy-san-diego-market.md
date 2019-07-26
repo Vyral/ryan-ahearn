@@ -26,7 +26,7 @@ Our San Diego real estate market has been a mixed bag lately, so it’s time to 
 
 Excitingly, **this July was the best month our market has seen in over a year,** so let’s dive right in.
 
-The number of new listings that came to our market this July is down 11.3% compared to what we saw last year, but the number of pending sales actually rose 3.5%. These combined conditions have caused our inventory (the number of total homes for sale) to go down by 1.7%. Until now, inventory has been on a steady rise. So this is quite the turnaround for our market.&nbsp;
+The number of new listings that came to our market this July is down 11.3% compared to what we saw last year, but the number of pending sales actually rose 3.5%. These combined conditions have caused our inventory (the number of total homes for sale) to go down by 1.7%. Until now, inventory has been on a steady rise. So this is quite a turnaround for our market.&nbsp;
 
 The drop in interest rates we saw in February is another reason behind this change, as more buyers are willing to make a move now that their purchasing power has been boosted.&nbsp;
 
