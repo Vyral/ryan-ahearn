@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let Us Find the Right Pricing Strategy for Your Home
-date: 2019-08-08 19:30:30
+date: 2019-08-08 19:30:00
 tags:
 excerpt: >-
   What pricing strategy is best for selling a home? Let’s discuss this common
@@ -13,8 +13,8 @@ pullquote: >-
   dollar.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/ryan-ahearn-pricing-strategy.jpg
 youtube_code: pkaL2Y4sGi8
 ---
 
