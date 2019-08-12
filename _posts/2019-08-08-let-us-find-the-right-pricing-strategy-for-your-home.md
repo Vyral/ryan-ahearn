@@ -22,7 +22,7 @@ youtube_code: pkaL2Y4sGi8
 
 There are a ton of different strategies for pricing your home, but there’s no one-size-fits-all solution. The strategy you and your agent choose should reflect your specific wants, needs, goals, and, of course, your home.&nbsp;
 
-**One of the most popular methods is by looking at comparable sales.** This involves looking at sales data from past listings in your area that are similar to your home to determine how you should price your property. This is a good starting point, sure, but looking at past data can only get you so far.&nbsp;
+**One of the most popular methods is looking at comparable sales.** This involves looking at sales data from past listings in your area that are similar to your home to determine how you should price your property. This is a good starting point, sure, but looking at past data can only get you so far.&nbsp;
 
 {% include pullquote.html %}
 
