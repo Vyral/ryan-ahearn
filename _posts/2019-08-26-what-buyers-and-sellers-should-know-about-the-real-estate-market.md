@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Buyers and Sellers Should Know About the Real Estate Market
-date: 2019-08-26 14:48:28
+date: 2019-08-26 14:48:00
 tags:
 excerpt: >-
   It’s time for another update on the San Diego County real estate market.
@@ -20,7 +20,7 @@ youtube_code: D-hAlBTH5ck
 
 {% include youtube.html %}
 
-<br>We are in August of 2019 and we’re in one heck of a confusing real estate market. All the market data is suggesting that we should be on fire, but we’re not? What’s going on?
+<br>We are in August of 2019 and we’re in one heck of a confusing real estate market. All the market data is suggesting that we should be on fire, but we’re not. What’s going on?
 
 The first leading indicator we look at when perusing the numbers is the number of homes that are hitting the market. **That number is down 7.7% from this time last year, while the number of homes coming off the market are up 14.9%.** Those are the biggest numbers that we’ve seen all year. Inventory is down a whopping 9.2% after being down only 3.2% last month.&nbsp;
 
