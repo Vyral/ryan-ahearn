@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your End-of-Summer 2019 Real Estate Market Update
-date: 2019-09-30 18:24:15
+date: 2019-09-30 18:24:00
 tags:
 excerpt: Here’s your monthly market update for the month of September.
 enclosure: >-
@@ -18,7 +18,7 @@ youtube_code: sDmzSSnsbYU
 
 {% include youtube.html %}
 
-The number of new listings that are hitting the market has dropped by 12.6% year over year. Pending sales (or homes that home gone under contract and are now off the market) are up by 17.2%, which makes sense because if you have less inventory but a similar number of buyers, then pending sales should go up.
+Where does our San Diego County market stand as we close the book on summer and look toward fall? The number of new listings that are hitting the market has dropped by 12.6% year over year. Pending sales (or homes that have gone under contract and are now off the market) are up by 17.2%, which makes sense because if you have less inventory but a similar number of buyers, then pending sales should go up.
 
 **So what does that do to the supply here in San Diego County?&nbsp;**
 
@@ -38,6 +38,4 @@ If your home is on the market, don’t expect there to be the same response we�
 
 Buyers have more time and less competition, but you also have fewer options since supply is down. All these leading indicators suggest that the market will continue to go up, just not as quickly as in the past. Homebuyers should take advantage of the fact that interest rates are really low right now—they’re still under 4% in a lot of areas. I’m taking advantage by refinancing my home to get a lower rate, and it may be a good idea for you to do so, as well.
 
-If you have any questions about the market or if we can help you with any of your real estate goals, please reach out to us. We want to be your real estate agent of choice, and we’ll do all we can to make your goals a reality.<br>&nbsp;
-
-{% include pullquote.html %}
+If you have any questions about the market or if we can help you with any of your real estate goals, please reach out to us. We want to be your real estate agent of choice, and we’ll do all we can to make your goals a reality.
