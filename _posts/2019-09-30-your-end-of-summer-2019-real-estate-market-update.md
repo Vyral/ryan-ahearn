@@ -28,7 +28,7 @@ This tells us that our market should be on fire. Right now, our days on market (
 
 {% include pullquote.html %}
 
-That’s a bit odd, so how do we explain it? Well, it’s taking 14% longer to sell a home, and there are 17% fewer homes on the market. In addition, we’ve noticed that buyer confidence has lowered a lot thanks to news about the stock market, the presidential election, and things like that. In addition, as prices go up, that the number of people who can afford a home goes down, so home affordability is a bit lower, as well. These factors both contribute to an increased days on market.
+That’s a bit odd, so how do we explain it? Well, it’s taking 14% longer to sell a home, and there are 17% fewer homes on the market. In addition, we’ve noticed that buyer confidence has lowered a lot thanks to news about the stock market, the presidential election, and things like that. In addition, as prices go up, the number of people who can afford a home goes down, so home affordability is a bit lower, as well. These factors both contribute to an increased number of days on market.
 
 **What does this mean for sellers?**
 
