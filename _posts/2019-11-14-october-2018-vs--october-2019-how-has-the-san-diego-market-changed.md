@@ -22,11 +22,11 @@ October is already behind us, and that means it’s time for a quick update on h
 
 First, **the number of new homes listed this October was down 13.6% year over year, dropping from 4,287 in 2018 to 3,705 this October.** The number of pending home sales, though, went up from 2,499 to 2,902. That’s a 16.1% year-over-year increase, which indicates a rise in demand.
 
-It’s therefore no surprise that our supply saw a significant drop (21.2%) between this October and last, with the number of available properties dropping from 8,002 to just 6,304.
+Therefore, it's no surprise that our supply saw a significant drop (21.2%) between this October and last, with the number of available properties dropping from 8,002 to just 6,304.
 
 {% include pullquote.html %}
 
-Interestingly, this increase in demand didn’t translate to a rise in average sales price, which dropped 2% year over year from $732,000 to $717,000. Take this with a grain of salt, though, as this is decrease is also partially the result in today’s super-low interest rates. **Buyers are still ready and willing to make a deal, and sellers still have plenty to offer.**
+Interestingly, this increase in demand didn’t translate to a rise in average sales price, which dropped 2% year over year from $732,000 to $717,000. Take this with a grain of salt, though, as this decrease is also partially the result of today’s super-low interest rates. **Buyers are still ready and willing to make a deal, and sellers still have plenty to offer.**
 
 The key point to take away from this market update is that conditions remain favorable for buyers and sellers alike, but this won’t last forever. If you’re planning on making a move, it’s time to get off the fence.
 
