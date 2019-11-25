@@ -21,7 +21,7 @@ youtube_code: V2IR0yMBVuU
 
 Before we get on to today’s market update, in which we’ll cover everything that’s changed within local real estate since November of last year, we’d like to extend a special message: Happy Thanksgiving. We are so grateful for your support.&nbsp;
 
-To show you just how thankful we truly are, we’d like to invite you to come to our fourth annual Pie Giveaway. **The event will take place at our office (ADDRESS) on November 26 at TIME, and we hope to see you there.**&nbsp;
+To show you just how thankful we truly are, we’d like to invite you to come to our fourth annual Pie Giveaway. **The event will take place at our office on November 26, and we hope to see you there.**&nbsp;
 
 With that said, let’s dive right in to the latest market numbers.
 
