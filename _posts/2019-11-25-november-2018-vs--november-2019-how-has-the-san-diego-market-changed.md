@@ -23,15 +23,15 @@ Before we get on to today’s market update, in which we’ll cover everything t
 
 To show you just how thankful we truly are, we’d like to invite you to come to our fourth annual Pie Giveaway. **The event will take place at our office on November 26, and we hope to see you there.**&nbsp;
 
-With that said, let’s dive right in to the latest market numbers.
+With that said, let’s dive right into the latest market numbers.
 
 First, **the number of new homes listed this November was down 12.6% year over year, dropping from 4,385 in 2018 to 3,832 this year.** The number of pending home sales, though, went up from 2,483 to 3,043. That’s a 22.2% year-over-year increase, which indicates a rise in demand.
 
 {% include pullquote.html %}
 
-It’s therefore no surprise that our supply saw a significant drop (26.2%) between this November and last, with the number of available properties dropping from 7,961 to 5,873.
+Therefore, it's no surprise that our supply saw a significant drop (26.2%) between this November and last, with the number of available properties dropping from 7,961 to 5,873.
 
-Thanks to this drop in supply, the average price of homes across San Diego County rose by .9%, going from $732,000 to $717,000. Interestingly, though, affordability (the balance between median price and median income) has gone up by 14.8% over that same period. This means **buyers are ready and eager to make a deal, as is evident by the fact that our current days on market has remained flat since November, 2018 at just 33 days.** Buyers are also motivated by our super-low interest rates. Rates haven’t been as low as they are today in 40 years, so now is an incredible time to make a move.&nbsp;
+Thanks to this drop in supply, the average price of homes across San Diego County rose by .9%, going from $732,000 to $717,000. Interestingly, though, affordability (the balance between median price and median income) has gone up by 14.8% over that same period. This means **buyers are ready and eager to make a deal, as is evident by the fact that our current days on market has remained flat since November 2018 at just 33 days.** Buyers are also motivated by our super-low interest rates. Rates haven’t been as low as they are today in 40 years, so now is an incredible time to make a move.&nbsp;
 
 The key point to take away from this market update is that conditions remain favorable for buyers and sellers alike, but this won’t last forever. If you’re planning on making a move, it’s time to get off the fence.
 
