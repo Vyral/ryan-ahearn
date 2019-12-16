@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Buying & Selling Over the Holidays a Good or Bad Idea?
-date: 2019-12-16 19:21:08
+date: 2019-12-16 19:21:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,9 +19,9 @@ youtube_alternate_image:
 youtube_code: dD9r_bxyTVE
 ---
 
-{% include youtube.html %}<br><br>&nbsp;
+{% include youtube.html %}
 
-things to keep in mind if you’re considering opening up a transaction around the holidays:
+These are a few things to keep in mind if you’re considering opening up a transaction around the holidays:
 
 First, bear in mind that the winter market is different from the markets in other seasons. Here in San Diego, the market runs in the same cycle each year like clockwork. **The period around the end of December and beginning of January is when our inventory is lowest,** meaning that soon we’ll have the fewest homes available. From that point, inventory will begin to climb, peaking around September and October before dropping back down toward the end of the year again.
 
