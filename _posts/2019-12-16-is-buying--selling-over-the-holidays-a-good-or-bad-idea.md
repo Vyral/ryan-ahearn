@@ -27,7 +27,7 @@ First, bear in mind that the winter market is different from the markets in othe
 
 So what does that mean for you?
 
-If you’re a buyer, it means you’ll have fewer homes to choose from. But, on the flip side, the **sellers in the market will be more motivated to sell, which is leverage in your favor.** It also means you’ll have less competition from other buyers, most of whom will wait until the spring to start looking for homes. Further still, interest rates have reached a 40-year low—take advantage of that\!
+If you’re a buyer, it means you’ll have fewer homes to choose from. On the flip side, the **sellers in the market will be more motivated to sell, which is leverage in your favor.** It also means you’ll have less competition from other buyers, most of whom will wait until the spring to start looking for homes. Further still, interest rates have reached a 40-year low—take advantage of that\!
 
 {% include pullquote.html %}
 
