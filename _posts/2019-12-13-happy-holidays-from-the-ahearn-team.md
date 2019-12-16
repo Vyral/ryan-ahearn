@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy holidays from the Ahearn Team
+title: Happy Holidays from the Ahearn Team
 date: 2019-12-13 18:10:00
 tags:
 excerpt:
