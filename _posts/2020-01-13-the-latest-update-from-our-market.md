@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Update From Our Market
-date: 2020-01-13 22:22:57
+date: 2020-01-13 22:22:00
 tags:
   - Real Estate
   - Market Update
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: sCVP8AAmzeY
+youtube_code: emuJtxIul4A
 ---
 
 {% include youtube.html %}
