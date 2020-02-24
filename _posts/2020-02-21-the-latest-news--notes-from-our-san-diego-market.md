@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest News & Notes From Our San Diego Market
-date: 2020-02-21 17:04:39
+date: 2020-02-21 17:04:00
 tags:
 excerpt: 'According to the latest numbers, the time is now to sell in San Diego.'
 enclosure:
@@ -25,10 +25,10 @@ What do the latest numbers say about our San Diego market? **Here are the year-o
 * The average days on market has dropped 7.3% from 41 to 38 homes
 * The month’s supply of inventory has dropped 41.7% from 2.4 to 1.4 months—a healthy market in San Diego has between three and six months’ worth of inventory&nbsp;
 
+{% include pullquote.html %}
+
 These numbers mean **buyers have more competition out there,** but once you do buy a home, they also mean the home will likely increase in value as time goes on. Interest rates are also super low, which is also good news since they can either save or lose you thousands of dollars over time.&nbsp;
 
-**Sellers, on the other hand, have less competition and more buyers to choose from.** If you list your home now, you might be lucky enough to get multiple offers. Once interest rates rise, these numbers can fall off of a cliff, so take advantage of the next few months. Our inventory tends to peak around September.&nbsp;
+**Sellers, on the other hand, have less competition and more buyers to choose between.** If you list your home now, you might be lucky enough to get multiple offers. Once interest rates rise, these numbers can fall off of a cliff, so take advantage of the next few months. Our inventory tends to peak around September.&nbsp;
 
 If you have questions about these numbers or are thinking of buying or selling now, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
-
-{% include pullquote.html %}
