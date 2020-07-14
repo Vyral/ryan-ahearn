@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Sellers Can Capitalize on the Moment
-date: 2020-07-13 19:38:34
+title: Is Real Estate The New Toilet Paper?
+date: 2020-07-13 19:38:00
 tags:
 excerpt: Find out why there hasn’t been a better time to sell than now.
 enclosure:
