@@ -49,7 +49,7 @@ Now that we’re in July, it seems like this year has flown by\! Hopefully, you 
 * 2020: 1.5 months
 * Net change: -46%
 
-So why does the market look this way? Well, there’s a lot of pent-up demand in the market from people who couldn’t buy or seller in the last three or four months due to the pandemic. Now there are a lot more buyers in the marketplace than there are sellers, which causes inventory to down.
+So why does the market look this way? Well, there’s a lot of pent-up demand in the market from people who couldn’t buy or sell in the last three or four months due to the pandemic. Now there are a lot more buyers in the marketplace than there are sellers, which causes inventory to down.
 
 {% include pullquote.html %}
 
