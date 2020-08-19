@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Make Your Offer More Attractive
-date: 2020-08-18 20:22:57
+date: 2020-08-18 20:22:00
 tags:
 excerpt: Here are three ways to make your offer more appealing to sellers.
 enclosure:
@@ -15,7 +15,7 @@ youtube_code: L6OKMeecKr4
 
 {% include youtube.html %}
 
-We know it can be very frustrating as a buyer to get your offer accepted in a competitive market because there are so many other buyers and offers in competition. That being said, using the right strategies can make all the difference; here are three ways to make your offer look more appealing to sellers:
+We know it can be very frustrating as a buyer to get your offer accepted in a competitive market because there are so many other buyers and offers in competition—However, using the right strategies can make all the difference. Here are three ways to make your offer look more appealing to sellers:
 
 **1\. Send a video, not a letter.** You may have heard that many buyers are submitting a letter to the seller along with their offer. That’s great, but 93% of all communication comes through tone and energy, so take it a step further; either you or your real estate agent can shoot a video of you and your family—preferably in front of the home you want to buy. Tell them a bit about you, your family, what your story is, and what that particular home has that you’ve been looking for. This will connect with the seller, pull at their heartstrings, and set you apart from the crowd.**&nbsp;**
 
