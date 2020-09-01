@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: What’s Turned Our Market Into a Frenzy?'
-date: 2020-08-31 23:19:16
+date: 2020-08-31 23:19:00
 tags:
+  - Market Update
 excerpt: Low supply and high demand are driving our San Diego County market.
 enclosure:
 pullquote: Our market is on fire.
