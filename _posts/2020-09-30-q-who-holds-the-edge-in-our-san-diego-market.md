@@ -19,7 +19,7 @@ youtube_code: Both buyers and sellers can take advantage of our San Diego market
 
 As we close out September, our San Diego County real estate market remains strong, and buyers are still motivated to take advantage of low interest rates. Here’s a quick glance at the latest year-over-year numbers:
 
-![](/uploads/screen-shot-2020-09-30-at-2-49-34-pm.png){: width="804" height="456"}
+![](/uploads/screen-shot-2020-09-30-at-2-49-34-pm.png){: width="700" height="352"}
 
 As you can see, **fewer homes are hitting the market and more buyers are buying.** Additionally, interest rates have dropped from 3.6% to 3.8% to 2.7% to 3%. Last year we were already at historic lows, so this is the lowest we’ve ever seen them.&nbsp;
 
