@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Both buyers and sellers can take advantage of our San Diego market.
+youtube_code: /KVNv-JG4434
 ---
 
 {% include youtube.html %}
