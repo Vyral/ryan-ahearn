@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 'Q: Why Do Contracts Fall out of Escrow?'
-date: 2020-10-16 19:41:01
+date: 2020-10-16 19:41:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: Here are the three main reasons why transactions can fall out of escrow.
 enclosure:
 pullquote: >-
