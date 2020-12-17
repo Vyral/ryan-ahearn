@@ -19,7 +19,7 @@ youtube_code: 1db8Ooo2HDo
 
 We’re into December of 2020, and our San Diego real estate market has been on a wild ride this year. First COVID hit and transactions dropped by 50%, then a surge of pent-up demand emerged many months later, causing the market to go crazy. Supply plummeted and homes were getting dozens of offers. Nobody could’ve predicted this, and there are many predictions for what might happen in 2021. No one has a crystal ball, but **here are the latest stats to give you a good idea of where the market may be headed:**
 
-![](/uploads/screen-shot-2020-12-15-at-1-14-31-pm.png){: width="500" height="304"}
+![](/uploads/screen-shot-2020-12-15-at-1-14-31-pm.png){: width="500" height="354"}
 
 What do these stats mean? If you’ve been following my previous market updates, you’ll notice that the decrease in new listings and overall supply is pretty consistent with where it’s been month to month. The big difference is with pendings—we’re used to seeing that number increase on a monthly basis at a rate of about 20%. Since it’s dropped 15%, **it appears the surge of pent-up demand is over.**&nbsp;
 
