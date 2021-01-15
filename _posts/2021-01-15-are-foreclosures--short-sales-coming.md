@@ -17,7 +17,7 @@ youtube_code: MQYehYGO3IE
 
 {% include youtube.html %}
 
-&nbsp;Here’s why foreclosures and short sales won’t be coming anytime soon.&nbsp;
+<center>&nbsp;Here’s why foreclosures and short sales won’t be coming anytime soon.&nbsp;</center>
 
 With the new year underway, many folks—homebuyers especially— are wondering if and when a wave of foreclosures and short sales will hit the market. I won’t go into detail about the differences between a foreclosure and a short sale in today’s blog, but my goal is to simply explain why a glut of foreclosures and short sales won’t be at our doorstep anytime soon. (If you’re interested in learning those differences, though, please reach out; I’d be happy to have that conversation with you).&nbsp;
 
