@@ -29,7 +29,7 @@ Though pending sales dipped slightly and significantly fewer listings hit the ma
 
 2:11 — Why we tend not to focus too heavily on average prices and median prices&nbsp;
 
-3:\!2 — The average sales price increased by 11% in 2020; days on market decreased by 22%
+3:12 — The average sales price increased by 11% in 2020; days on market decreased by 22%
 
 3:44 — If you’re thinking about selling soon, what do all these numbers mean for you?&nbsp;
 
