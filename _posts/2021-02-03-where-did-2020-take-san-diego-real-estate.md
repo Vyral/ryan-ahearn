@@ -15,7 +15,7 @@ youtube_code: PJTvP27uYAQ
 
 {% include youtube.html %}
 
-A review of 2020’s year-end stats to contextualize our current standing.
+<center><em>A review of 2020’s year-end stats to contextualize our current standing.</center></em>
 
 Pretty much all of 2020 was a rollercoaster ride, real estate included. Will 2021 be more of the same? To find out, today we’ll review the 2020 year-end stats from our San Diego County real estate market and compare them to the tail end of 2019.&nbsp;
 
