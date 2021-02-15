@@ -24,7 +24,7 @@ youtube_code: KyePS-MRu_U
 
 I don’t think that we’ve ever seen a crazier market than the one we have now. You’ve probably heard a lot of information about what’s going on from the media, so today, let’s dive into the numbers for a clearer picture of what’s happening in the San Diego real estate market.
 
-![](/uploads/ryan.PNG){: width="640" height="257"}
+<center><em>   [](/uploads/ryan.PNG){: width="640" height="257"}   </em></center>
 
 To the homebuyers in our market: I feel your pain. **With our crazy low inventory, finding a new home and getting your offer accepted can be a struggle.** We recently listed a home and within the first four hours of it being on the market, we received between 25 and 30 scheduled showings for the following day. This is happening across the board, so buyers need to be patient; there will be more inventory available. That said, if you find the right one that makes sense for you to buy now, jump on it\! Interest rates are still low, and if market trends continue the way they have been, we can expect home prices to keep rising.
 
