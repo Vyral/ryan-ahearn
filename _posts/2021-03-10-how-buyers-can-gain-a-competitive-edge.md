@@ -14,7 +14,9 @@ youtube_code: TwcllG5o-Qs
 ---
 {% include youtube.html %}
 
-<CENTER>*Here are three ways to make your offer more competitive.*</CENTER>
+<center><em>Here are three ways to make your offer more competitive.</em></center>
+
+<center>&nbsp;</center>
 
 It’s very difficult to get your offer accepted in this crazy market we have right now. A recent listing of mine received 67 offers on it in just the first seven days it was on the market\! That’s why today I’ll share three tips that will help buyers gain a competitive edge so that they can hopefully find success:
 
