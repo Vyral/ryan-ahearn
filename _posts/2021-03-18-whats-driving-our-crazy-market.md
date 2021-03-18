@@ -16,7 +16,7 @@ youtube_code: gb1XZsXle1I
 ---
 {% include youtube.html %}
 
-These are the numbers that are driving our insane seller’s market.
+<center><em>These are the numbers that are driving our insane seller’s market.</em></center>
 
 Unless you’ve been living under a rock, you’ll have heard about how bananas our market is right now. But what’s driving it? When will it change? Today I’ll discuss my answers to these key questions as we compare the March 2021 market numbers to what we saw in the same month last year. If you’re looking to buy or sell in the coming months, these are the numbers you’ll want to pay attention to:
 
