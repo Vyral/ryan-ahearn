@@ -22,7 +22,7 @@ youtube_code: gb1XZsXle1I
 
 Unless you’ve been living under a rock, you’ll have heard about how bananas our market is right now. What’s driving it? When will it change? Today I’ll discuss my answers to these key questions as we compare the March 2021 market numbers to what we saw in the same month last year. If you’re looking to buy or sell in the coming months, these are the numbers you’ll need to know:
 
-![](/uploads/screen-shot-2021-03-18-at-4-29-17-pm.png){: width="1574" height="694"}
+![](/uploads/screen-shot-2021-03-18-at-4-29-17-pm.png){: width="787" height="347"}
 
 Beyond inventory, one of the largest changes we’ve seen year over year is the increase in interest rates. Many buyers think that it’s a good idea to wait for prices to come down, as higher interest rates affect prices. However, the problem with that logic is that you’ll be waiting a while for that to happen.&nbsp;
 
