@@ -14,7 +14,7 @@ youtube_code: mENgMed4JtA
 ---
 {% include youtube.html %}
 
-A breakdown of the closing costs you’re responsible for when selling.
+<center><em>A breakdown of the closing costs you’re responsible for when selling.</em></center>
 
 How much does it cost to sell a home? There is no black and white answer to this question. Everything is a gray area when it comes to closing costs because every situation is different. Today I want to go over some of the basic closing costs involved and an easy way to get a ballpark estimate of what these costs will run you.
 
