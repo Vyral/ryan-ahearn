@@ -20,7 +20,7 @@ youtube_code: QU7arbaWCUI
 
 We’re into the latter half of April 2021, and here are the leading indicators as to where our San Diego County real estate market is headed:
 
-![](/uploads/screen-shot-2021-04-16-at-8-46-37-am.png){: width="744" height="265"}
+![](/uploads/screen-shot-2021-04-16-at-8-46-37-am.png){: width="704" height="225"}
 
 Two numbers that stick out here: the pending listings and supply. **The 53% increase in pending listings and a 64% drop in supply are the biggest changes we’ve seen in many months.** Considering everything that happened with COVID last year, I more or less expected these numbers to look how they look, and I expect the same picture next month (and next year). The stat we'll pay attention to most is the number of new listings. We'll be watching to see whether more people put their homes on the market now that things are opening back up.
 
