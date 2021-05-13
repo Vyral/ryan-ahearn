@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do the Latest Stats Say About Our Market?
-date: 2021-05-13 20:43:20
+date: 2021-05-13 20:43:00
 tags:
 excerpt: Here’s what the leading indicators say about our May market.
 enclosure:
@@ -14,7 +14,9 @@ youtube_code: 3Ym5sAv3O0I
 ---
 {% include youtube.html %}
 
-<center><em>Here’s what the leading indicators say about our May market.</em></center>
+<center><em>Here&rsquo;s what the leading indicators say about our May market.</em></center>
+
+<center>&nbsp;</center>
 
 Where does our San Diego County real estate market stand as we move through May 2021? As always, let’s look to the leading indicators:
 
