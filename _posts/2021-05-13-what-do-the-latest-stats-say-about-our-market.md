@@ -14,11 +14,11 @@ youtube_code: 3Ym5sAv3O0I
 ---
 {% include youtube.html %}
 
-Here’s what the leading indicators say about our May market.
+<center><em>Here’s what the leading indicators say about our May market.</em></center>
 
 Where does our San Diego County real estate market stand as we move through May 2021? As always, let’s look to the leading indicators:
 
-![](/uploads/screen-shot-2021-05-13-at-3-42-32-pm.png){: width="1576" height="576"}
+![](/uploads/screen-shot-2021-05-13-at-3-42-32-pm.png){: width="1376" height="376"}
 
 What does all this mean? If you’ve been keeping up with my monthly market updates, you know that I’ve been saying we’ll start to see some big statistical changes compared to last year. Last May, people were unsure of whether to buy or sell because we were in the thick of the pandemic and there was a lot we didn’t know. **Clearly, there will be fewer homes coming on the market and fewer coming off compared to last year.&nbsp;**
 
